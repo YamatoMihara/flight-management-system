@@ -1,0 +1,6 @@
+
+{
+  "name": "Flight Management System",
+  "description": "A React application to manage flight schedules and reservations, with distinct views for users and administrators. Users can browse flights, make reservations, and view flight statistics. Administrators can monitor flight occupancy and reservation details."
+}
+    
